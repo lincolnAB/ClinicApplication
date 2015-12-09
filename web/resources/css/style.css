@@ -30,3 +30,7 @@ p{
     font-family: Futura, Sans-Serif;
 }
 
+.navbar .brand { 
+    padding-top: 0;
+    padding-bottom: 0; 
+}
